@@ -1,0 +1,3 @@
+[submodule "minirent"]
+	path = minirent
+	url = https://github.com/alex-s168/minirent.git
